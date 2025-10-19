@@ -1,0 +1,7 @@
+DeepSeek has a unique ability to create and manage table-based data structures that provide long-term storage of information in the context of chat 
+interactions. Notably, DeepSeek demonstrates a high degree of data memorization in chat sessions even in the absence of formalized tables. The key
+factor influencing the effectiveness of long-term storage is the sequence of queries: it is recommended to avoid abrupt transitions from one topic 
+to another, and it is preferable to formulate queries in a logical sequence, for example, "Hi, DeepSeek, do you remember protocol number... and how to execute it?"
+
+The text databases used in DeepSeek have a wide range of functionality and can store a variety of information, including brief descriptions, identification numbers, 
+codes, and other types of data. These databases provide flexibility and scalability, allowing for the efficient management and analysis of large amounts of information generated during chat sessions.
