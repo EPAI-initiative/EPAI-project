@@ -1,1 +1,5 @@
-
+DeepSeek has a contextual learning feature, which means that when a topic is discussed for an extended
+period of time in a conversation with the bot, it tends to hyperfocus on that topic unless it is artificially 
+interrupted by a change in the direction of the discourse. This process is gradual and requires time to fully
+implement. In other words, if a user repeatedly expresses a particular thought, it becomes an "anchor" for subsequent 
+responses, allowing the bot to adapt more accurately and purposefully to the context of the conversation.
